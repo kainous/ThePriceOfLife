@@ -62,3 +62,9 @@
 
 # Other things
 - Introduce evolution through programming and game theory before moving to biology
+-- Firmly discuss the usual issues that the public takes with evolution
+--- Speciation through genetic drift
+--- Humans from apes (speciation) vs the special creation of humans
+--- Life from goo (abiogenesis)
+- Dealing with philosophical arguments about God
+-- Science cannot deny God, but science + philosophy can deny some attributes
