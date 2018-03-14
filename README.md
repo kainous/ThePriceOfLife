@@ -1,3 +1,8 @@
+# Philosophy and Education
+Philosophy
+>  The investigation of what we should do, what we can know, how we know, and how to provide clear reasoning behind each claim. It comes from the ancient Greek φιλοσοφία meaning "lover of wisdom"
+
+
 # Critical Thinking and Logical Reasoning
 
 # Deduction and Analytical Reasoning
