@@ -30,6 +30,8 @@
 ## Set Theory
 ### Many-Sorted Logic
 ### Relations
+### Probability as a Logic
+### Set Theory Operations and Arithmetic Operations
 #### Order Relations
 ##### Preorder
 ##### Partial Order
