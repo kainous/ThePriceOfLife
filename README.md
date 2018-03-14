@@ -57,3 +57,8 @@
 - Statistical reasoning (data + presumptions)
 - Inductive reasoning (theory formation)
 - Abductive reasoning (data + theory)
+
+
+
+# Other things
+- Introduce evolution through programming and game theory before moving to biology
